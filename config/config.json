@@ -1,0 +1,12 @@
+
+{
+    "development": {
+      "username": "root",
+      "password": "sarthak@100201",
+      "database": "note_app",
+      "host": "localhost",
+      "dialect": "mysql"
+
+}
+}
+  
